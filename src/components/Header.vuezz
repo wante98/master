@@ -1,0 +1,25 @@
+<!-- <template>
+<header>
+    <img src="require(`../assets/wayne_Rebecca_g.png`)" alt="尤李真好" class="zlogo">
+</header>
+</template>
+
+<script>
+export default {
+  name: 'Header',
+}
+</script>
+
+<style>
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80px; /* set the height of the header to the height of the logo image */
+}
+
+.zlogo {
+  max-width: 100%;
+  height: auto;
+} 
+</style>-->

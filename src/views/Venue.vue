@@ -2,9 +2,8 @@
     <div class="container">
       <Row>{{ '\u00A0' }}</Row>
       <img class="zlogo" alt="zlogo" src="../assets/wayne_Rebecca_b.png">
-      <h1 class="title">WAYNE & REBECCA</h1>
       <h5 class="subtitle">AUGUST 6, 2023 • TAIPEI, TAIWAN</h5>
-      <Row>{{ '\u00A0' }}</Row>
+      <h1 class="title">VENUE</h1>
       <h4 class="cardtitle">交通資訊</h4>
       <h5 class="time">如何到達將捷金鬱金香酒店?</h5>
       <div class="container-fluid">
@@ -15,7 +14,7 @@
           <img class="mainprewedphoto" alt="traffic" src="../assets/traffic_back.png">
       </div>
       </div>
-      <div class="content" >
+      <!-- <div class="content" >
         <p><br></p>
         <p>接送機服務</p>
         <p>將捷金鬱金香酒店設有機場接駁服務，可依您的來訪人數提供專屬車輛接送（需收取費用及提前預約）。</p>
@@ -49,7 +48,7 @@
         <p><br></p>
         <p>接駁資訊</p>
         <p>捷運淡水站2號出口，計程車排班處最前方搭乘接駁車，採預約制(11:00~18:30服務)。</p>
-      </div>
+      </div> -->
       
       <Row>{{ '\u00A0' }}</Row>
         <img class="clogo" alt="clogo" src="../assets/materials/尤李臻好黑字.png">    

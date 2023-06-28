@@ -2,8 +2,8 @@
     <div class="container">
       <Row>{{ '\u00A0' }}</Row>
       <img class="zlogo" alt="zlogo" src="../assets/wayne_Rebecca_b.png">
-      <h1 class="title">Photos</h1>
       <h5 class="subtitle">AUGUST 6, 2023 • TAIPEI, TAIWAN</h5>
+      <h1 class="title">Photos</h1>
       <Row>{{ '\u00A0' }}</Row>
       <div class="row">
         <div class="col-md-4 col-sm-6 col-12" v-for="i in 9">

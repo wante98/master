@@ -2,17 +2,17 @@
     <div class="container">
       <Row>{{ '\u00A0' }}</Row>
       <img class="zlogo" alt="zlogo" src="../assets/wayne_Rebecca_b.png">
-      <h1 class="title">WAYNE & REBECCA</h1>
+      <!-- <h1 class="title">We are getting married!</h1> -->
       <h5 class="subtitle">AUGUST 6, 2023 • TAIPEI, TAIWAN</h5>
       <Row>{{ '\u00A0' }}</Row>
       <div class="row">
-        <img class="mainprewedphoto" alt="mainprewedphoto" src="../assets/logo.png">
+        <img class="mainprewedphoto" alt="mainprewedphoto" src="../assets/weddinginvitation.jpg">
       </div>
       <!-- Content -->
-      <h4 class="cardtitle">婚禮資訊</h4>
+      <!-- <h4 class="cardtitle">婚禮資訊</h4>
       <h5 class="time">10:00~14:00</h5>
       <h5 class="venue">淡水將捷金鬱金香酒店</h5>
-      <h5 class="address">新北市淡水區中正路一段2-1號貝殼廳</h5>
+      <h5 class="address">新北市淡水區中正路一段2-1號貝殼廳</h5> -->
       <Row>{{ '\u00A0' }}</Row>
         <img class="clogo" alt="clogo" src="../assets/materials/尤李臻好黑字.png">  
         <font-awesome-icon icon="instagram" />
@@ -168,6 +168,8 @@
 .mainprewedphoto{
     max-width: 100%;
     height: auto;
+    display:block; 
+    margin:auto;
 }
 .zlogo {
   max-width: 40%;

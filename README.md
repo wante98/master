@@ -1,4 +1,6 @@
-# sqweb
+# Wayne-Rebecca Wedding Official Website 
+
+### Vue 2 + Vuex + Vue Router + iView 
 
 ## Project setup
 ```
